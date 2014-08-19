@@ -1,5 +1,17 @@
+
+    <div class="ribbon l-box-lrg pure-g">
+        <div class="l-box-lrg is-center pure-u-1 pure-u-md-1-2 pure-u-lg-2-5">
+            <img class="pure-img-responsive" alt="File Icons" width="300" src="img/common/file-icons.png">
+        </div>
+        <div class="pure-u-1 pure-u-md-1-2 pure-u-lg-3-5">
+
+            <h2 class="content-head content-head-ribbon">Bring your Doctor with you.</h2>
+
+            <p class='yellow' id="random-tagline"></p>
+        </div>
+    </div>
+
     <div class="footer l-box is-center">
-        <span class='yellow' id='tagline'></span>
         <div class="pure-menu">
             <span class='yellow'>i</span><span class='white'>Konsulta</span><span class='crimson'>Mo</span>
         </div>
@@ -12,7 +24,7 @@
 <script type="text/javascript" src="js/taglines.js"></script>
 <script type="text/javascript">
     jQuery(document).ready(function(){
-        jQuery('#tagline').html(get_random_tagline());
+        jQuery('#random-tagline').html(get_random_tagline());
     });
 </script>
 </body>
