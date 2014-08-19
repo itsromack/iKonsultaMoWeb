@@ -18,5 +18,11 @@
 <link rel="stylesheet" href="css/layouts/marketing.css">
 <!--<![endif]-->
 <link rel="stylesheet" href="http://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css">
+<style type="text/css">
+.splash-head, .home-menu span {text-transform:none; font-family:"Arial Black";}
+.yellow {color: yellow;}
+.crimson {color: crimson;}
+.white {color: white;}
+</style>
 </head>
 <body>
