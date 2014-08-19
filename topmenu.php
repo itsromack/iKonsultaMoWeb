@@ -4,8 +4,8 @@
     	<span class='yellow'>i</span><span class='white'>Konsulta</span><span class='crimson'>Mo</span>
 
         <ul>
-            <li><a href="find-doctors.php">Find a Doctor</a></li>
-            <li><a href="find-hospitals.php">Find Hospitals</a></li>
+            <li><a href="doctors.php">Find a Doctor</a></li>
+            <li><a href="hospitals.php">Find Hospitals</a></li>
         </ul>
     </div>
 </div>

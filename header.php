@@ -19,7 +19,9 @@
 <!--<![endif]-->
 <link rel="stylesheet" href="http://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css">
 <style type="text/css">
-.splash-head, .home-menu span {text-transform:none; font-family:"Arial Black";}
+table caption {background-color: rgb(255, 234, 133);}
+.hospitals {margin-top: 100px; margin-bottom: 100px; width: 100%;}
+.pure-menu, .home-menu span {text-transform:none; font-family:"Arial Black";}
 .yellow {color: yellow;}
 .crimson {color: crimson;}
 .white {color: white;}

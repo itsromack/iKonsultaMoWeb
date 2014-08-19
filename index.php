@@ -3,7 +3,7 @@
 
 <div class="splash-container">
     <div class="splash">
-        <h1 class="splash-head"><span class='yellow'>i</span><span>Konsulta</span><span class='crimson'>Mo</span></h1>
+        <h1 class="splash-head pure-menu"><span class='yellow'>i</span><span>Konsulta</span><span class='crimson'>Mo</span></h1>
         <p class="splash-subhead">
         	
         </p>
@@ -15,7 +15,7 @@
 
 <div class="content-wrapper">
     <div class="content">
-        <h2 class="content-head is-center">Excepteur sint occaecat cupidatat.</h2>
+        <h2 class="content-head is-center">Doctors TV Programs</h2>
 
         <div class="pure-g">
             <div class="l-box pure-u-1 pure-u-md-1-2 pure-u-lg-1-4">
@@ -79,19 +79,12 @@
         </div>
         <div class="pure-u-1 pure-u-md-1-2 pure-u-lg-3-5">
 
-            <h2 class="content-head content-head-ribbon">Laboris nisi ut aliquip.</h2>
+            <h2 class="content-head content-head-ribbon">Bring your Doctor with you.</h2>
 
             <p>
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-                quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-                consequat. Duis aute irure dolor.
+                Read Search Hospitals in the Philippines.
             </p>
         </div>
-    </div>
-
-    <div class="footer l-box is-center">
-        La Verdad Christian College
     </div>
 
 <?php include "footer.php";?>
