@@ -24,52 +24,7 @@
             <p>Dr. Mike takes pride in being viewed not only as a doctor, but also as a friend and confidant.</p>
 
             <p>“We’ve all pledged, promised and bullied ourselves to eat better and exercise more, but so many times even the best intentions fall short,” Dr. Mike says. “I incorporate healthy habits into my work and home life and you can too.”</p>
-
-            <h2 class="content-subhead">Program Hosts</h2>
-            <div class="pure-g">
-                <div class="pure-u-1-3">
-                    <img class="pure-img-responsive" src="http://www.untvweb.com/wp-content/uploads/2013/02/doctors11.jpg" alt="Juan Maria Ibarra O. Co, M.D.">
-                </div>
-                <div class="pure-u-1-3">
-                    <img class="pure-img-responsive" src="http://www.untvweb.com/wp-content/uploads/2013/03/lyn.jpg" alt="Lyn Perez">
-                </div>
-                <div class="pure-u-1-3">
-                    <img class="pure-img-responsive" src="http://www.untvweb.com/wp-content/uploads/2012/09/Gretchen-E.Thumbnail-Ad.jpg" alt="Gretchen Stephanie Mendiola Espina">
-                </div>
-            </div>
-
-            <h2 class="content-subhead">Segments</h2>
-            <p>
-                <b>Naturally Yours</b> - A segment where conventional and alternative medicine meet. Nutraceutical consultant Yas Muralla guides us to the essentials of herbal medicines and health supplements in aid of natural healing.
-            </p>
-
-            <p>
-                <b>Health Update</b> - Keep up with the latest breakthroughs in medicine with endocrinologist Dr. Juan Maria Ibarra. Tune in for current medical updates and professional advice about various health concerns.
-            </p>
-
-            <p>
-                <b>Women’s Health</b> - Every modern woman’s ultimate survival guide, from healthcare to parenting tips. Hosted by, OB-Gyne specialist Dr. Stephanie Supan.
-            </p>
         </div>
-
-        <div id="program-video" align="center">
-            <h3>
-                Watch Episodes
-            </h3>
-        
-            <div id="video-list">
-
-                <h4>Breastfeeding</h4>
-                <iframe id="epiVideo" width="262" height="180" src="http://www.youtube-nocookie.com/embed/OwGfcmcsBss" frameborder="0" allowfullscreen="">
-                </iframe>
-
-                <h4>What is Allergy?</h4>
-                <iframe id="epiVideo" width="262" height="180" src="http://www.youtube-nocookie.com/embed/3vWxCERxWJM" frameborder="0" allowfullscreen="">
-                </iframe>
-
-            </div>
     </div>
-</div>
-
 
 <?php include "footer.php";?>
