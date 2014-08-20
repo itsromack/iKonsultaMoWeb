@@ -15,7 +15,7 @@
 <tbody>
 <tr class="pure-table-odd">
 <td>
-<a href="node/1390.html">AMANG RODRIGUEZ  MEDICAL CENTER</a><br/>Marikina City
+<a href="node/1390.html">AMANG RODRIGUEZ  MEDICAL CENTER</a><br/>Marikina City <br />
 <strong>Dr. EMMANUEL BUENO</strong><br />Medical Center Chief II <br/>	
 <img src="img/icon_telephone.png">948-1263 Local 106, 570-2776, 941-5854 , 941-3441 (TF) <br /><img src="img/icon_email.png" width="22px" height="16px">&nbsp;<a href="mailto:amangrod@yahoo.com">amangrod@yahoo.com </a><br />
 <a href="hospital-map.php?name=AMANG RODRIGUEZ  MEDICAL CENTER" class="button-success pure-button">View Map</a>
