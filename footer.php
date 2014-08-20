@@ -23,9 +23,21 @@
 <script type="text/javascript" src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
 <script type="text/javascript" src="js/taglines.js"></script>
 <script type="text/javascript">
-    jQuery(document).ready(function(){
-        jQuery('#random-tagline').html(get_random_tagline());
+jQuery(document).ready(function(){
+    jQuery('#random-tagline').html(get_random_tagline());
+    jQuery('.doctv-untv').click(function(){
+        location.href = "/ikonsultamo/tv-untv-doctv.php";
     });
+    jQuery('.doctv-drmike').click(function(){
+        location.href = "/ikonsultamo/tv-drmike.php";
+    });
+    jQuery('.doctv-thedrs').click(function(){
+        location.href = "/ikonsultamo/tv-thedrs.php";
+    });
+    jQuery('.doctv-medic').click(function(){
+        location.href = "/ikonsultamo/tv-housemd.php";
+    });
+});
 </script>
 </body>
 </html>

@@ -56,7 +56,7 @@
             </div>
             <div class="l-box pure-u-1 pure-u-md-1-2 pure-u-lg-1-4">
                 <h3 class="content-subhead">
-                    Medic
+                    House MD
                 </h3>
                 <img src="img/house-md.jpg" width="300" />
                 <p>
@@ -68,7 +68,7 @@
                 <p>
 					House works with an expertslite team of experts who help him unravel diagnostic mysteries, including neurologist DR. ERIC FOREMAN (Omar Epps), plastic surgeon DR. CHRIS TAUB (Peter Jacobson), surgeon DR. ROBERT CHASE (Jesse Spencer), prison clinic physician DR. JESSICA ADAMS (Odette Annable) and DR. CHI PARK (Charlyne Yi). He has a confidant and good friend in oncology specialist DR. JAMES WILSON (Robert Sean Leonard).
                 </p>
-    			<button class="button-xlarge pure-button doctv-medic">Watch Episodes</button>
+    			<button class="button-xlarge pure-button doctv-housemd">Watch Episodes</button>
             </div>
         </div>
     </div>
