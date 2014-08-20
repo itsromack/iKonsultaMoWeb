@@ -1,6 +1,7 @@
 <?php include "header.php";?>
 <?php include "topmenu.php";?>
 
+<?php $map_address = $_GET['name']; ?>
 <div class="map">
     <div class="iframe-map-container">
         <iframe

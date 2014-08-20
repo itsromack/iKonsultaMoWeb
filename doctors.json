@@ -1,0 +1,41 @@
+{
+	"doctor": [
+		{
+			"name": "AMANG RODRIGUEZ MEDICAL CENTER	",
+			"address": "Marikina City",
+			"clinic_room": "201",
+			"specialty": "Thoracic, Cardiac & Vascular Surgery",
+			"CLINIC SCHEDULE": "Mon; Thurs; Fri. - 4 to 7pm"
+		},
+		{
+			"name": "AMANSEC, Dr. Mercedita A.",
+			"clinic_room": "209",
+			"specialty": "Diabetology",
+			"CLINIC SCHEDULE": "Wed. 9am to 12nn / 1pm to 4pm"
+		},
+		{
+			"name": "Dr. Andrew L",
+			"clinic_room": "212",
+			"specialty": "Ophthalmology",
+			"CLINIC SCHEDULE": "Mon. 9am-12nn/1pm-4pm ; Wed.&Thurs. 9am-12nn ; Tue.&Fri. 1pm-4pm (Sat. by Appt.)"
+		},
+		{
+			"name": "Dr. Lea Marie Y,",
+			"clinic_room": "217",
+			"specialty": "Pediatrics",
+			"CLINIC SCHEDULE": "Tues; Thurs. - 4pm to 7pm"
+		},
+		{
+			"name": "Dr. Ma. Rae Celia M.",
+			"clinic_room": "210",
+			"specialty": "Ophthalmology",
+			"CLINIC SCHEDULE": "Tues; Fri; Sat. - 9am to 12nn"
+		},
+		{
+			"name": "Dr. Unika Leah C.",
+			"clinic_room": "212",
+			"specialty": "Obstetrics & Gynecology",
+			"CLINIC SCHEDULE": "Tues.&Fri.9-12nn/4-7pm ; Wed.&Thurs. 1pm to 7pm (Sat.9-12nn & by appt.)"
+		}
+	]
+}

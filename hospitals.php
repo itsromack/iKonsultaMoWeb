@@ -1,14 +1,13 @@
 <?php include "header.php";?>
 <?php include "topmenu.php";?>
 
+<form method = 'POST' action = 'hospital-map.php'>
+
+
 <table class="pure-table hospitals">
 <caption>DOH Hospital</caption>
 <thead>
 <tr>
-<th>
-</th>
-<th>
-</th>
 <th>
 </th>
 </tr>
@@ -16,103 +15,93 @@
 <tbody>
 <tr class="pure-table-odd">
 <td>
-<a href="node/1390.html">AMANG RODRIGUEZ  MEDICAL CENTER</a><br />Marikina City          </td>
-<td>
-<strong>Dr. EMMANUEL BUENO</strong><br />Medical Center Chief II          </td>
-<td>
-<img src="img/icon_telephone.png">948-1263 Local 106, 570-2776, 941-5854 , 941-3441 (TF) <br /><img src="img/icon_email.png" width="22px" height="16px">&nbsp;<a href="mailto:amangrod@yahoo.com">amangrod@yahoo.com </a>          </td>
+<a href="node/1390.html">AMANG RODRIGUEZ  MEDICAL CENTER</a><br/>Marikina City
+<strong>Dr. EMMANUEL BUENO</strong><br />Medical Center Chief II <br/>	
+<img src="img/icon_telephone.png">948-1263 Local 106, 570-2776, 941-5854 , 941-3441 (TF) <br /><img src="img/icon_email.png" width="22px" height="16px">&nbsp;<a href="mailto:amangrod@yahoo.com">amangrod@yahoo.com </a><br />
+<a href="hospital-map.php?name=AMANGRODRIGUEZMEDICALCENTER" class="button-success pure-button">View Map</a>
+</td>
 </tr>
 <tr>
 <td>
-<a href="node/1443.html">Dr. JOSE FABELLA MEMORIAL HOSPITAL</a><br />Lope de Vega, Sta. Cruz, Manila          </td>
-<td>
-<strong>Dr. RUBEN C. FLORES</strong><br />Medical Center Chief II          </td>
-<td>
-<img src="img/icon_telephone.png">734-5561 local 112 , 735-7146 (TF)  <br /><img src="img/icon_email.png" width="22px" height="16px">&nbsp;<a href="mailto:jfmh@doh.gov.ph">jfmh@doh.gov.ph </a>          </td>
+<a href="node/1443.html">Dr. JOSE FABELLA MEMORIAL HOSPITAL</a><br />Lope de Vega, Sta. Cruz, Manila <br/>
+<strong>Dr. RUBEN C. FLORES</strong><br />Medical Center Chief II <br/>
+<img src="img/icon_telephone.png">734-5561 local 112 , 735-7146 (TF)  <br /><img src="img/icon_email.png" width="22px" height="16px">&nbsp;<a href="mailto:jfmh@doh.gov.ph">jfmh@doh.gov.ph </a><br />
+<a href="hospital_map.php?name=Dr. JOSE FABELLA MEMORIAL HOSPITAL" class="button-success pure-button">View Map</a>
 </tr>
 <tr class="pure-table-odd">
 <td>
-<a href="node/1444.html">EAST AVENUE MEDICAL CENTER</a><br />East Ave., Quezon City          </td>
-<td>
-<strong>Dr. ROLAND CORTEZ</strong><br />Medical Center Chief II          </td>
-<td>
-<img src="img/icon_telephone.png">928-0611 to 23 , 426-4405 (TF) <br /><img src="img/icon_email.png" width="22px" height="16px">&nbsp;<a href="mailto:rolandcortes_md@yahoo.com">rolandcortes_md@yahoo.com </a>          </td>
+<a href="node/1444.html">EAST AVENUE MEDICAL CENTER</a><br />East Ave., Quezon City <br />
+<strong>Dr. ROLAND CORTEZ</strong><br />Medical Center Chief II <br />
+<img src="img/icon_telephone.png">928-0611 to 23 , 426-4405 (TF) <br /><img src="img/icon_email.png" width="22px" height="16px">&nbsp;<a href="mailto:rolandcortes_md@yahoo.com">rolandcortes_md@yahoo.com </a><br />
+<a href="hospital_map.php?name=EAST AVENUE MEDICAL CENTER" class="button-success pure-button">View Map</a>
 </tr>
 <tr>
 <td>
-<a href="node/1445.html">JOSE R. REYES MEMORIAL MEDICAL CENTER</a><br />Rizal Avenue, Sta. Cruz, Manila          </td>
-<td>
-<strong>Dr. EMMANUEL L. MONTAÑA, Jr.</strong><br />Medical Center Chief II          </td>
-<td>
-<img src="img/icon_telephone.png">732-1077, 711-9491 to 98  (Trunkline) , 732-1629 (TF) <br /><img src="img/icon_email.png" width="22px" height="16px">&nbsp;<a href="mailto:josereyesmedical@yahoo.com ">josereyesmedical@yahoo.com  </a>          </td>
+<a href="node/1445.html">JOSE R. REYES MEMORIAL MEDICAL CENTER</a><br />Rizal Avenue, Sta. Cruz, Manila <br />
+<strong>Dr. EMMANUEL L. MONTAÑA, Jr.</strong><br />Medical Center Chief II <br />
+<img src="img/icon_telephone.png">732-1077, 711-9491 to 98  (Trunkline) , 732-1629 (TF) <br /><img src="img/icon_email.png" width="22px" height="16px">&nbsp;<a href="mailto:josereyesmedical@yahoo.com ">josereyesmedical@yahoo.com  </a><br />
+<a href="hospital_map.php?name=JOSE R. REYES MEMORIAL MEDICAL CENTER" class="button-success pure-button">View Map</a>
 </tr>
 <tr class="pure-table-odd">
 <td>
-<a href="node/1446.html">NATIONAL CENTER FOR MENTAL HEALTH</a><br />Mandaluyong City          </td>
-<td>
-<strong>Dr. BERNARDINO A. VICENTE</strong><br />Medical Center Chief II          </td>
-<td>
-<img src="img/icon_telephone.png">531-9001 to 10 Local 201 , 531-8682  (TF) <br /><img src="img/icon_email.png" width="22px" height="16px">&nbsp;<a href="mailto:bernardinovicente@yahoo.com">bernardinovicente@yahoo.com </a>          </td>
+<a href="node/1446.html">NATIONAL CENTER FOR MENTAL HEALTH</a><br />Mandaluyong City <br />
+<strong>Dr. BERNARDINO A. VICENTE</strong><br />Medical Center Chief II <br />
+<img src="img/icon_telephone.png">531-9001 to 10 Local 201 , 531-8682  (TF) <br /><img src="img/icon_email.png" width="22px" height="16px">&nbsp;<a href="mailto:bernardinovicente@yahoo.com">bernardinovicente@yahoo.com </a><br />
+<a href="hospital_map.php?name=NATIONAL CENTER FOR MENTAL HEALTH" class="button-success pure-button">View Map</a>
 </tr>
 <tr>
 <td>
-<a href="node/1447.html">NATIONAL CHILDREN&#039;S HOSPITAL</a><br />E. Rodriguez, Quezon City          </td>
-<td>
-<strong>Dr. EPIFANIA SIMBUL</strong><br />Medical Center Chief II          </td>
-<td>
-<img src="img/icon_telephone.png">724-0656 to 59 local 101-102, 725-4533 , 721-9125  (TF) <br /><img src="img/icon_email.png" width="22px" height="16px">&nbsp;<a href="mailto:esimbul@yahoo.com">esimbul@yahoo.com </a>          </td>
+<a href="node/1447.html">NATIONAL CHILDRENS HOSPITAL</a><br />E. Rodriguez, Quezon City <br />
+<strong>Dr. EPIFANIA SIMBUL</strong><br />Medical Center Chief II <br />
+<img src="img/icon_telephone.png">724-0656 to 59 local 101-102, 725-4533 , 721-9125  (TF) <br /><img src="img/icon_email.png" width="22px" height="16px">&nbsp;<a href="mailto:esimbul@yahoo.com">esimbul@yahoo.com </a><br />
+<a href="hospital_map.php?name=NATIONAL CHILDRENS HOSPITAL" class="button-success pure-button">View Map</a>
 </tr>
 <tr class="pure-table-odd">
 <td>
-<a href="node/1448.html">PHILIPPINE ORTHOPEDIC CENTER</a><br />Maria Clara cor. Banawe St., Quezon City          </td>
-<td>
-<strong>Dr. JOSE BRITTANIO S. PUJALTE, JR.</strong><br />OIC-Medical Center Chief II          </td>
-<td>
-<img src="img/icon_telephone.png">711-4276 loc. 272 , 712-4746  (TF) <br /><img src="img/icon_email.png" width="22px" height="16px">&nbsp;<a href="mailto:pocdir@info.com.ph">pocdir@info.com.ph </a>          </td>
+<a href="node/1448.html">PHILIPPINE ORTHOPEDIC CENTER</a><br />Maria Clara cor. Banawe St., Quezon City <br />
+<strong>Dr. JOSE BRITTANIO S. PUJALTE, JR.</strong><br />OIC-Medical Center Chief II <br />
+<img src="img/icon_telephone.png">711-4276 loc. 272 , 712-4746  (TF) <br /><img src="img/icon_email.png" width="22px" height="16px">&nbsp;<a href="mailto:pocdir@info.com.ph">pocdir@info.com.ph </a> <br />
+<a href="hospital_map.php?name=PHILIPPINE ORTHOPEDIC CENTER" class="button-success pure-button">View Map</a>
 </tr>
 <tr>
 <td>
-<a href="node/1449.html">QUIRINO MEMORIAL MEDICAL CENTER</a><br />Project 4, Quezon City          </td>
-<td>
-<strong>Dr. ANGELES DE LEON </strong><br />Medical Center Chief II          </td>
-<td>
-<img src="img/icon_telephone.png">421-2250 , 913-4758  (TF) <br /><img src="img/icon_email.png" width="22px" height="16px">&nbsp;<a href="mailto:deleon_angeles@yahoo.com">deleon_angeles@yahoo.com </a>          </td>
+<a href="node/1449.html">QUIRINO MEMORIAL MEDICAL CENTER</a><br />Project 4, Quezon City <br />
+<strong>Dr. ANGELES DE LEON </strong><br />Medical Center Chief II <br />
+<img src="img/icon_telephone.png">421-2250 , 913-4758  (TF) <br /><img src="img/icon_email.png" width="22px" height="16px">&nbsp;<a href="mailto:deleon_angeles@yahoo.com">deleon_angeles@yahoo.com </a><br />
+<a href="hospital_map.php?name=QUIRINO MEMORIAL MEDICAL CENTER" class="button-success pure-button">View Map</a>
 </tr>
 <tr class="pure-table-odd">
 <td>
-<a href="content/research-institute-tropical-medicine.html">RESEARCH INSTITUTE FOR TROPICAL MEDICINE</a><br />Filinvest Corporate City, Alabang, Muntinlupa City          </td>
-<td>
-<strong>Dr. SOCORRO P. LUPISAN</strong><br />OIC, Director IV          </td>
-<td>
-<img src="img/icon_telephone.png">807-2628 to 32, 807-2636, 809-7599 , 842-2245 (F) <br /><img src="img/icon_email.png" width="22px" height="16px">&nbsp;<a href="mailto:ritm@doh.gov.ph">ritm@doh.gov.ph </a>          </td>
+<a href="content/research-institute-tropical-medicine.html">RESEARCH INSTITUTE FOR TROPICAL MEDICINE</a><br />Filinvest Corporate City, Alabang, Muntinlupa City <br />
+<strong>Dr. SOCORRO P. LUPISAN</strong><br />OIC, Director IV <br />
+<img src="img/icon_telephone.png">807-2628 to 32, 807-2636, 809-7599 , 842-2245 (F) <br /><img src="img/icon_email.png" width="22px" height="16px">&nbsp;<a href="mailto:ritm@doh.gov.ph">ritm@doh.gov.ph </a><br />
+<a href="hospital_map.php?name=RESEARCH INSTITUTE FOR TROPICAL MEDICINE" class="button-success pure-button">View Map</a>
 </tr>
 <tr>
 <td>
-<a href="content/rizal-medical-center.html">RIZAL MEDICAL CENTER</a><br />Pasig City          </td>
-<td>
-<strong>Dr. RELITO SAQUILAYAN </strong><br />Medical Center Chief II          </td>
-<td>
-<img src="img/icon_telephone.png">671-9740 loc 102, 672-2676 , 671-4216  (TF) <br /><img src="img/icon_email.png" width="22px" height="16px">&nbsp;<a href="mailto:rmc@info.com.ph">rmc@info.com.ph </a>          </td>
+<a href="content/rizal-medical-center.html">RIZAL MEDICAL CENTER</a><br />Pasig City <br />
+<strong>Dr. RELITO SAQUILAYAN </strong><br />Medical Center Chief II <br />
+<img src="img/icon_telephone.png">671-9740 loc 102, 672-2676 , 671-4216  (TF) <br /><img src="img/icon_email.png" width="22px" height="16px">&nbsp;<a href="mailto:rmc@info.com.ph">rmc@info.com.ph </a><br />
+<a href="hospital_map.php?name=RIZAL MEDICAL CENTER" class="button-success pure-button">View Map</a>
 </tr>
 <tr class="pure-table-odd">
 <td>
-<a href="content/san-lazaro-hospital.html">SAN LAZARO HOSPITAL</a><br />Quiricada St., Sta. Cruz, Manila          </td>
-<td>
-<strong>Dr. WINSTON GO</strong><br />Medical Center Chief II          </td>
-<td>
-<img src="img/icon_telephone.png">732-3776 to 78 loc. 103, 711-6979 , 309-9543 <br /><img src="img/icon_email.png" width="22px" height="16px">&nbsp;<a href="mailto:wsgo.doh@gmail.com sanlazarohospital@yahoo.com">wsgo.doh@gmail.com sanlazarohospital@yahoo.com </a>          </td>
+<a href="content/san-lazaro-hospital.html">SAN LAZARO HOSPITAL</a><br />Quiricada St., Sta. Cruz, Manila <br />
+<strong>Dr. WINSTON GO</strong><br />Medical Center Chief II <br />
+<img src="img/icon_telephone.png">732-3776 to 78 loc. 103, 711-6979 , 309-9543 <br /><img src="img/icon_email.png" width="22px" height="16px">&nbsp;<a href="mailto:wsgo.doh@gmail.com sanlazarohospital@yahoo.com">wsgo.doh@gmail.com sanlazarohospital@yahoo.com </a><br />
+<a href="hospital_map.php?name=SAN LAZARO HOSPITAL" class="button-success pure-button">View Map</a>
 </tr>
 <tr class="even views-row-last">
 <td>
-<a href="content/tondo-medical-center.html">TONDO MEDICAL CENTER</a><br />Balut, Tondo, Manila          </td>
-<td>
-<strong>Dr. CRISTINA V. ACUESTA</strong><br />OIC, Medical Center Chief II          </td>
-<td>
-<img src="img/icon_telephone.png">522-9244 , 522-1174          </td>
+<a href="content/tondo-medical-center.html">TONDO MEDICAL CENTER</a><br />Balut, Tondo, Manila <br />
+<strong>Dr. CRISTINA V. ACUESTA</strong><br />OIC, Medical Center Chief II <br />
+<img src="img/icon_telephone.png">522-9244 , 522-1174 <br />
+<a href="hospital_map.php?name=TONDO MEDICAL CENTER" class="button-success pure-button">View Map</a>
 </tr>
 </tbody>
 </table>
-<table class="pure-table hospitals">
+</form>
+<!-- <table class="pure-table hospitals">
 <caption>Specialty Hospital</caption>
 <thead>
 <tr>
@@ -832,4 +821,4 @@
 </tbody>
 </table>
 
-<?php include "footer.php";?>
+<?php include "footer.php";?> -->
