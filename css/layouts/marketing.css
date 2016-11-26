@@ -5,6 +5,68 @@
 }
 
 /*
+ * Edited Version
+ *
+  */
+.tile2{
+	 position:absolute;
+    transition: .5s ease;
+    top: 42%;
+    left: 30.8%;
+
+	
+}
+ 
+.tile_div a {
+    display: block;
+    float: left;
+    height: 15px;
+    width: 100px;
+    margin-right: 20px;
+	margin-left: 5px;
+    text-align: center;
+    line-height: 50px;
+    text-decoration: none;
+}
+
+.title_div a.last {
+    margin-right: 0px;
+}
+
+.clear {
+    clear: both;
+}  
+  
+
+.topmenu-button {
+    background-color: #1f8dd6;
+    color: white;
+    padding: 0.5em 2em;
+    border-radius: 1px;
+}
+
+.round-border {
+	text-align : center;
+	border-style: double;
+	margin-top: 20px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 150px;
+	color: black;
+    background-color: lightgrey;
+    border: 2px w;
+    border-radius: 5px;
+}
+
+.topmenu-button {
+    background-color: #1f8dd6;
+    color: white;
+    padding: 0.5em 1em;
+    border-radius: 10px;
+} 
+ 
+
+/*
  * -- BASE STYLES --
  * Most of these are inherited from Base, but I want to change a few.
  */
@@ -70,6 +132,8 @@ label {
  * -- PURE BUTTON STYLES --
  * I want my pure-button elements to look a little different
  */
+
+ 
 .pure-button {
     background-color: #1f8dd6;
     color: white;
@@ -106,7 +170,7 @@ a.pure-button-primary {
 }
 
 .home-menu .pure-menu-heading {
-    color: white;
+    color: blue;
     font-weight: 400;
     font-size: 120%;
 }
@@ -132,7 +196,8 @@ a.pure-button-primary {
  */
 
 .splash-container {
-    background: #1f8dd6;
+ 
+background: #1f8dd6;
     z-index: 1;
     overflow: hidden;
     /* The following styles are required for the "scroll-over" effect */
@@ -141,6 +206,7 @@ a.pure-button-primary {
     top: 0;
     left: 0;
     position: fixed !important;
+ 
 }
 
 .splash {
@@ -152,6 +218,7 @@ a.pure-button-primary {
     top: 100px; left: 0; bottom: 0; right: 0;
     text-align: center;
     text-transform: uppercase;
+	
 }
 
 /* This is the main heading that appears on the blue section */
@@ -159,6 +226,7 @@ a.pure-button-primary {
     font-size: 20px;
     font-weight: bold;
     color: white;
+	text-shadow: 2px 2px 4px #000000;
     border: 3px solid white;
     padding: 1em 1.6em;
     font-weight: 100;
