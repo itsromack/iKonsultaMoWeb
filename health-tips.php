@@ -5,7 +5,7 @@
 
     <div class="pure-g">
         <div class="photo-box u-1 u-med-1-3 u-lrg-1-4">
-            <img src="http://www.infographicsshowcase.com/wp-content/uploads/2011/10/ObesityLrg-600x1406.jpg" width="100%">
+            <img src="http://www.infographicsshowcase.com/wp-content/uploads/2011/10/ObesityLrg-600x1406.jpg" width="100%" >
         </div>
     </div>
 
