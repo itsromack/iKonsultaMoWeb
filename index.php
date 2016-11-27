@@ -3,60 +3,46 @@
 
 
 <style>
-body {
-background-image: url("./img/doc.jpg");	
-	
+body 
+{
+	background-image: url("./img/doc.jpg");	
 }
 </style>
-
-    <div class="splash">
-	
-        <h1 class="splash-head pure-menu"><span class='yellow'>i</span><span>Konsulta</span><span class='crimson'>Mo</span></h1>
-        <p class="splash-subhead">
-        	
+<div class="splash">
+	<h1 class="splash-head pure-menu"><span class='yellow'>i</span><span>Konsulta</span><span class='crimson'>Mo</span></h1>
+		<p class="splash-subhead">
         </p>
         <p>
-            <a href="health-tips.php" class="pure-button main-button">Read Health Tips</a>
+			<a href="health-tips.php" class="pure-button main-button">Read Health Tips</a>
         </p>
-    </div>
-</div>
-
-
-
-
+ </div>
 
 <div class="content-wrapper">
     <div class="content">
         <h2 class="content-head is-center">Doctors TV Programs</h2>
-
-        <div class="pure-g">
-            <div class="l-box pure-u-1 pure-u-md-1-2 pure-u-lg-1-4">
-
-                <h3 class="content-subhead">
-                    UNTV's Doc on TV
-                </h3>
-                <img src="img/untv-doc-on-tv-sq.jpg" />
-                <p>
-                    Everything you wanted to ask your doctor but were too embarrassed to do so, will be answered by Doctors on TV. Hosted by a team of medical specialists, Doctors on TV offers an informative insight into human health and diseases.
-                </p>
-                <p>
-                	The show follows real-life medical cases from diagnosis and treatment to eventual recovery. Step-by-step procedures are featured and discussed in detail by guest medical experts.  Other segments promote a holistic approach to health and fitness by featuring alternative medicine, proper nutrition and stress management.  Start living a healthier life, let the Doctors On TV show you how.
-                </p>
-    			<a href="https://www.untvweb.com/program/doctors-on-tv/" target="_blank"><button class="button-xlarge pure-button">Watch Episodes</button></a>
-            </div>
-            <div class="l-box pure-u-1 pure-u-md-1-2 pure-u-lg-1-4">
-                <h3 class="content-subhead">
-                    Dr. Mike Diet
-                </h3>
+    <div class="pure-g">
+		<div class="l-box pure-u-1 pure-u-md-1-2 pure-u-lg-1-4">
+			<h3 class="content-subhead">UNTV's Doc on TV</h3>
+				<img src="img/untv-doc-on-tv-sq.jpg" />
+					<p>
+						Everything you wanted to ask your doctor but were too embarrassed to do so, will be answered by Doctors on TV. Hosted by a team of medical specialists, Doctors on TV offers an informative insight into human health and diseases.
+					</p>
+					<p>
+						The show follows real-life medical cases from diagnosis and treatment to eventual recovery. Step-by-step procedures are featured and discussed in detail by guest medical experts.  Other segments promote a holistic approach to health and fitness by featuring alternative medicine, proper nutrition and stress management.  Start living a healthier life, let the Doctors On TV show you how.
+					</p>
+						<a href="https://www.untvweb.com/program/doctors-on-tv/" target="_blank"><button class="button-xlarge pure-button">Watch Episodes</button></a>
+</div>
+		<div class="l-box pure-u-1 pure-u-md-1-2 pure-u-lg-1-4">
+            <h3 class="content-subhead">Dr. Mike Diet</h3>
                 <div style="background-color: gray;" align="center">
                 	<img src="img/dr-mike-diet.png" align="center" />
                 </div>
-                <p>
-                    Dr. Michael Rafael Moreno, better known as “Dr. Mike,” is a graduate of the University of California at Irvine and Hahnemann Medical School (now Drexel University). Following his residency at Kaiser Permanente in Fontana, California, Dr. Mike moved to San Diego, where he now practices family medicine and sits on the board of the San Diego Chapter of the American Academy of Family Physicians.
-                </p>
-    			<a href="http://www.drmikediet.com/" target="_blank"><button class="button-xlarge pure-button">Watch Episodes</button></a>
-            </div>
-            <div class="l-box pure-u-1 pure-u-md-1-2 pure-u-lg-1-4">
+					<p>
+						Dr. Michael Rafael Moreno, better known as “Dr. Mike,” is a graduate of the University of California at Irvine and Hahnemann Medical School (now Drexel University). Following his residency at Kaiser Permanente in Fontana, California, Dr. Mike moved to San Diego, where he now practices family medicine and sits on the board of the San Diego Chapter of the American Academy of Family Physicians.
+					</p>
+						<a href="http://www.drmikediet.com/" target="_blank"><button class="button-xlarge pure-button">Watch Episodes</button></a>
+        </div>
+         <div class="l-box pure-u-1 pure-u-md-1-2 pure-u-lg-1-4">
                 <h3 class="content-subhead">
                     The Doctors
                 </h3>
